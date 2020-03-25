@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Starwars.Consumer": {
+      "commandName": "Project"
+    },
+    "Docker (1)": {
+      "commandName": "Docker"
+    }
+  }
+}

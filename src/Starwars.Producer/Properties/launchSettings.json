@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Starwars.Producer": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
